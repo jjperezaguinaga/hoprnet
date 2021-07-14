@@ -1,4 +1,4 @@
-import Hopr from '@hoprnet/hopr-core'
+import Hopr from '@hoprdev/hopr-core'
 import http from 'http'
 import fs from 'fs'
 import ws from 'ws'

@@ -1,6 +1,6 @@
-import type Hopr from '@hoprnet/hopr-core'
+import type Hopr from '@hoprdev/hopr-core'
 import type PeerId from 'peer-id'
-import { INTERMEDIATE_HOPS } from '@hoprnet/hopr-core/lib/constants'
+import { INTERMEDIATE_HOPS } from '@hoprdev/hopr-core/lib/constants'
 import { PublicKey } from '@hoprnet/hopr-utils'
 import { checkPeerIdInput, encodeMessage, styleValue } from './utils'
 import { AbstractCommand, GlobalState } from './abstractCommand'

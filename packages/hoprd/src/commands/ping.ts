@@ -1,4 +1,4 @@
-import type Hopr from '@hoprnet/hopr-core'
+import type Hopr from '@hoprdev/hopr-core'
 import type PeerId from 'peer-id'
 import { AbstractCommand, GlobalState } from './abstractCommand'
 import { checkPeerIdInput, styleValue } from './utils'

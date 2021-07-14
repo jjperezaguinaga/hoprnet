@@ -2,7 +2,7 @@ import assert from 'assert'
 import { findPath } from '.'
 import type NetworkPeers from '../network/network-peers'
 import BN from 'bn.js'
-import { Indexer } from '@hoprnet/hopr-core-ethereum'
+import { Indexer } from '@hoprdev/hopr-core-ethereum'
 import { Balance, PublicKey } from '@hoprnet/hopr-utils'
 
 function checkPath(path: PublicKey[], edges: Map<PublicKey, PublicKey[]>) {

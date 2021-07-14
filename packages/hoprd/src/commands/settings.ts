@@ -1,6 +1,6 @@
 import { getPaddingLength, styleValue } from './utils'
 import { AbstractCommand, GlobalState } from './abstractCommand'
-import type Hopr from '@hoprnet/hopr-core'
+import type Hopr from '@hoprdev/hopr-core'
 
 function booleanSetter(name: string) {
   return function setter(query: string, state: GlobalState): string {

@@ -5,7 +5,7 @@ import PeerId from 'peer-id'
 import chaiAsPromised from 'chai-as-promised'
 import chai, { expect } from 'chai'
 import sinon from 'sinon'
-import { Channel } from '@hoprnet/hopr-core-ethereum'
+import { Channel } from '@hoprdev/hopr-core-ethereum'
 import { Address, Balance, PublicKey, UINT256, Ticket, ChannelEntry, ChannelStatus } from '@hoprnet/hopr-utils'
 import { validateUnacknowledgedTicket, validateCreatedTicket } from '.'
 

@@ -9,7 +9,7 @@ import {
   HoprChannels,
   HoprToken__factory,
   HoprChannels__factory
-} from '@hoprnet/hopr-ethereum'
+} from '@hoprdev/hopr-ethereum'
 import {
   Address,
   Ticket,

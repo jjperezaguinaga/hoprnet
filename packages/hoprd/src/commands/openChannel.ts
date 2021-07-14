@@ -1,4 +1,4 @@
-import type Hopr from '@hoprnet/hopr-core'
+import type Hopr from '@hoprdev/hopr-core'
 import type PeerId from 'peer-id'
 import { moveDecimalPoint, Balance } from '@hoprnet/hopr-utils'
 import BN from 'bn.js'

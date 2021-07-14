@@ -34,7 +34,7 @@ import {
   ChannelStatus,
   MIN_NATIVE_BALANCE
 } from '@hoprnet/hopr-utils'
-import HoprCoreEthereum from '@hoprnet/hopr-core-ethereum'
+import HoprCoreEthereum from '@hoprdev/hopr-core-ethereum'
 import BN from 'bn.js'
 import { getAddrs } from './identity'
 

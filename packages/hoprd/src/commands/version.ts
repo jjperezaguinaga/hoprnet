@@ -1,5 +1,5 @@
 import { AbstractCommand } from './abstractCommand'
-import type Hopr from '@hoprnet/hopr-core'
+import type Hopr from '@hoprdev/hopr-core'
 
 export default class Version extends AbstractCommand {
   constructor(public node: Hopr) {

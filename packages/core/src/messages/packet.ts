@@ -1,4 +1,4 @@
-import { Channel } from '@hoprnet/hopr-core-ethereum'
+import { Channel } from '@hoprdev/hopr-core-ethereum'
 import {
   Ticket,
   UINT256,
@@ -23,7 +23,7 @@ import {
   PRICE_PER_PACKET,
   INVERSE_TICKET_WIN_PROB
 } from '@hoprnet/hopr-utils'
-import type HoprCoreEthereum from '@hoprnet/hopr-core-ethereum'
+import type HoprCoreEthereum from '@hoprdev/hopr-core-ethereum'
 import { AcknowledgementChallenge } from './acknowledgementChallenge'
 import type PeerId from 'peer-id'
 import BN from 'bn.js'

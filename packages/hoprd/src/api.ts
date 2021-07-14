@@ -1,4 +1,4 @@
-import type Hopr from '@hoprnet/hopr-core'
+import type Hopr from '@hoprdev/hopr-core'
 import { Commands } from './commands'
 import bodyParser from 'body-parser'
 

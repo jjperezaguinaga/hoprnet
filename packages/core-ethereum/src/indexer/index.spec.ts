@@ -1,5 +1,5 @@
 import type { providers as Providers, Wallet } from 'ethers'
-import type { HoprChannels } from '@hoprnet/hopr-ethereum'
+import type { HoprChannels } from '@hoprdev/hopr-ethereum'
 import type { Event } from './types'
 import type { ChainWrapper } from '../ethereum'
 import assert from 'assert'

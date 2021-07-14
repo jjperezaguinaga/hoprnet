@@ -1,4 +1,4 @@
-import type Hopr from '@hoprnet/hopr-core'
+import type Hopr from '@hoprdev/hopr-core'
 import { AbstractCommand } from './abstractCommand'
 
 export class Info extends AbstractCommand {

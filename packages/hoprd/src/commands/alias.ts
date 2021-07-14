@@ -1,4 +1,4 @@
-import type Hopr from '@hoprnet/hopr-core'
+import type Hopr from '@hoprdev/hopr-core'
 import { AbstractCommand, GlobalState } from './abstractCommand'
 import { checkPeerIdInput, getPaddingLength, styleValue } from './utils'
 

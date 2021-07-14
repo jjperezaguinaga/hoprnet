@@ -1,7 +1,7 @@
 import debug from 'debug'
 import { PublicKey, durations, oneAtATime } from '@hoprnet/hopr-utils'
 import PeerId from 'peer-id'
-import HoprCoreEthereum from '@hoprnet/hopr-core-ethereum'
+import HoprCoreEthereum from '@hoprdev/hopr-core-ethereum'
 import { PROTOCOL_ACKNOWLEDGEMENT } from '../../constants'
 import { Acknowledgement, Packet } from '../../messages'
 import { HoprDB } from '@hoprnet/hopr-utils'

@@ -1,5 +1,5 @@
 import { encode, decode } from 'rlp'
-import type Hopr from '@hoprnet/hopr-core'
+import type Hopr from '@hoprdev/hopr-core'
 import { AbstractCommand } from './abstractCommand'
 import debug from 'debug'
 

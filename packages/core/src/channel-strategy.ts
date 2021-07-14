@@ -1,4 +1,4 @@
-import type { ChannelEntry, Channel } from '@hoprnet/hopr-core-ethereum'
+import type { ChannelEntry, Channel } from '@hoprdev/hopr-core-ethereum'
 import {
   AcknowledgedTicket,
   PublicKey,

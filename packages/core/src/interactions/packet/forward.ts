@@ -1,6 +1,6 @@
 import { PROTOCOL_STRING } from '../../constants'
 import { Packet } from '../../messages'
-import type HoprCoreEthereum from '@hoprnet/hopr-core-ethereum'
+import type HoprCoreEthereum from '@hoprdev/hopr-core-ethereum'
 import type PeerId from 'peer-id'
 import { durations, pubKeyToPeerId, HoprDB } from '@hoprnet/hopr-utils'
 import { Mixer } from '../../mixer'

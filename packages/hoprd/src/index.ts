@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-import Hopr from '@hoprnet/hopr-core'
-import type { HoprOptions } from '@hoprnet/hopr-core'
+import Hopr from '@hoprdev/hopr-core'
+import type { HoprOptions } from '@hoprdev/hopr-core'
 import { NativeBalance, SUGGESTED_NATIVE_BALANCE } from '@hoprnet/hopr-utils'
 import { decode } from 'rlp'
 import { Commands } from './commands'
