@@ -685,6 +685,14 @@
     webrtc-stun "3.0.0"
     wrtc "0.4.7"
 
+"@hoprnet/hopr-ethereum@1.74.0-next.39":
+  version "1.74.0-next.39"
+  resolved "https://registry.yarnpkg.com/@hoprnet/hopr-ethereum/-/hopr-ethereum-1.74.0-next.39.tgz#079ca8c8854dcd5ad71e4509544a6546c93c1402"
+  integrity sha512-LgPvgDaToc95PvDaMOlSC2tqROPm/GFa+6RAC+m+b1w3znLuwdbihuKwQ1HwnLC4/wq7068eoVmJUYDT1XYorA==
+  dependencies:
+    "@openzeppelin/contracts" "4.1.0"
+    "@openzeppelin/contracts-v3-0-1" "npm:@openzeppelin/contracts@3.0.1"
+
 "@hoprnet/hopr-utils@1.74.0-next.16":
   version "1.74.0-next.16"
   resolved "https://registry.yarnpkg.com/@hoprnet/hopr-utils/-/hopr-utils-1.74.0-next.16.tgz#a5d2fbd67e297b28ad0f751d8daa334cd1277ade"
